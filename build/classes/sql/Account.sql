@@ -69,4 +69,5 @@ INSERT INTO account(
 
 SELECT * FROM account;
 DROP TABLE account;
-DELETE from account; 
+DELETE from account;
+DROP SEQUENCE account_seq;
